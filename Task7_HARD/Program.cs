@@ -13,7 +13,7 @@ int figure = 0;
 int RevNumber=0;
 
 if (number <100) 
-    Console.WriteLine (" В числе отсутсвует третья цифра. ");
+    Console.WriteLine ("\n В числе отсутсвует третья цифра. ");
 else if (number>=1000)      
  {
      
